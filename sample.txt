@@ -1,0 +1,2 @@
+This is a secret file that needs to be encrypted.
+this file will be access over the setting in that file 
